@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ömer+Bilal+Yay;Full+Stack+Developer;Mobile+%7C+Backend+%7C+AI+%7C+Game+Dev" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+%C3%96mer+Bilal+Yay;Full+Stack+Developer;Mobile+%7C+Backend+%7C+AI+%7C+Game+Dev)](https://git.io/typing-svg)
 
 <br/>
 
