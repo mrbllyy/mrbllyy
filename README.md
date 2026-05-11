@@ -70,14 +70,15 @@ Data & AI        Local LLMs · REST APIs
         <code>Flutter</code>
       </p>
       <p>
+        <a href="https://apps.apple.com/tr/app/blockster-block-puzzle/id6761389994">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28"/>
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.yaysoftwares.blockster">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28"/>
+        </a>
         <a href="https://yaysoftwares.com/blockster/">
           <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" height="28"/>
         </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🔒_Closed_Beta-ffcc00?style=flat&logoColor=black" height="22"/>
-        <br/>
-        <sub>Store links coming soon — reach out for beta access</sub>
       </p>
     </td>
   </tr>
